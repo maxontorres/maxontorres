@@ -47,8 +47,6 @@ Currently @ **Vientiane**, Business Tools · Mobile-First · Offline-First · Au
 ## `// latest_transmissions`
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Businesses in Vientiane Need a Website](https://maxontorres.com/en/articles/why-businesses-in-vientiane-need-a-website)
-- [Teaching Web Development in China @ Yango University](https://maxontorres.com/en/articles/teaching-web-development-china-yango-university)
 - [How I Built OrderBridge: Solving the Delivery-to-POS Middleware Gap](https://maxontorres.com/en/articles/how-i-built-orderbridge)
 
 <!-- BLOG-POST-LIST:END -->
